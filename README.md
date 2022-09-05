@@ -1,2 +1,4 @@
-# alx-system_engineering-devops
- 0x00-shell_basics
+Current working directory’ >README.md
+cd ..
+git add
+echo Current working directory’
