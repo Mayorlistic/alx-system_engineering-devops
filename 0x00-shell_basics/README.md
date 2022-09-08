@@ -1,1 +1,1 @@
-mkdir /tmp/ Betty /tmp/my_first_directory
+Delete the file betty
