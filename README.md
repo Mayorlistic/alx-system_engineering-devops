@@ -1,1 +1,1 @@
-My first readme
+Delete the directory my_first_directory
