@@ -1,1 +1,2 @@
-Create a symbolic link to /bin/ls
+#!/bin/bash
+cd /tmp/my_first_directory/betty
