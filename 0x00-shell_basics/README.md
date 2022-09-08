@@ -1,1 +1,1 @@
-mv/tmp/my_first_directory
+mkdir /tmp/ Betty /tmp/my_first_directory
