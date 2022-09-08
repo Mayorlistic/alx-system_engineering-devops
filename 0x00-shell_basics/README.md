@@ -1,1 +1,1 @@
-/boot directory
+ lists all Betty
